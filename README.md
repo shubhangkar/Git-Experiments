@@ -1,1 +1,2 @@
-MEssing with git
+## Messing with git.
+### Doing some cool stuff with version control.
